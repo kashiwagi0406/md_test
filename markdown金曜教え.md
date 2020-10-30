@@ -89,3 +89,11 @@ GitHub Flavored Markdown
         print 'hoge'
       end
     end
+
+```
+    class Hoge
+      def hoge
+        print 'hoge'
+      end
+    end
+```
