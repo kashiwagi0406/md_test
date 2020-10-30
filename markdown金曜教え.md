@@ -30,6 +30,11 @@ GitHub Flavored Markdown
 ```
 でjsは実行できるかも？実行できるとセキュリティー上の問題が発生するが......
 
+```php
+<?php
+5+5
+```
+
 <details>
     <summary>折り畳み</summary>
 ```html
