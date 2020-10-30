@@ -21,7 +21,7 @@ GitHub Flavored Markdown
 - `> 引用`
 - コードプレビュ
 - 強調系
-- リンク(外へのリンク)
+- リンク([外へのリンク](https://qiita.com/tbpgr/items/989c6badefff69377da7))
 - html タグをそのまま書ける。
 
 ## html タグをそのまま書ける実演
