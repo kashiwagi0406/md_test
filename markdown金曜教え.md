@@ -23,8 +23,13 @@ GitHub Flavored Markdown
 - `> 引用`
   - [引用](https://qiita.com/tbpgr/items/989c6badefff69377da7#%E5%BC%95%E7%94%A8)
 - コードプレビュ
+    - [pre記法](https://qiita.com/tbpgr/items/989c6badefff69377da7#pre%E8%A8%98%E6%B3%95%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B94-or-%E3%82%BF%E3%83%96)
+    - [GFM:pre記法](https://qiita.com/tbpgr/items/989c6badefff69377da7#gfmpre%E8%A8%98%E6%B3%95%E3%83%81%E3%83%AB%E3%83%803)
 - 強調系
+    - [code記法](https://qiita.com/tbpgr/items/989c6badefff69377da7#code%E8%A8%98%E6%B3%95)から太文字と斜め文字の混合まで
+    - [GFM:取り消し線](https://qiita.com/tbpgr/items/989c6badefff69377da7#gfm%E5%8F%96%E3%82%8A%E6%B6%88%E3%81%97%E7%B7%9A)
 - リンク([外へのリンク](https://qiita.com/tbpgr/items/989c6badefff69377da7))
+    - [リンク](https://qiita.com/tbpgr/items/989c6badefff69377da7#%E3%83%AA%E3%83%B3%E3%82%AF)
 - html タグをそのまま書ける。
 
 ## html タグをそのまま書ける実演
@@ -92,7 +97,7 @@ GitHub Flavored Markdown
     end
 
 
-バッククォート×3でやった方が安全？シンタックスハイライト使えるし？
+バッククォート×3でやった方が安全？シンタックスハイライト使えるし？`~`チルダ方式もあったようだ。
 ```ruby
     class Hoge
       def hoge
