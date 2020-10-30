@@ -21,6 +21,7 @@ GitHub Flavored Markdown
 - リスト系
   - [箇条書きリスト](https://qiita.com/tbpgr/items/989c6badefff69377da7#%E7%AE%87%E6%9D%A1%E6%9B%B8%E3%81%8D%E3%83%AA%E3%82%B9%E3%83%88)
 - `> 引用`
+  - [引用](https://qiita.com/tbpgr/items/989c6badefff69377da7#%E5%BC%95%E7%94%A8)
 - コードプレビュ
 - 強調系
 - リンク([外へのリンク](https://qiita.com/tbpgr/items/989c6badefff69377da7))
@@ -77,7 +78,14 @@ GitHub Flavored Markdown
 
 ############################## シャープ 31 語
 
-1. 1
-1. 2
-1. 3
-1. 4
+1. 1-1
+1. 1-2
+1. 1-3
+1. 1-4
+
+
+    class Hoge
+      def hoge
+        print 'hoge'
+      end
+    end
