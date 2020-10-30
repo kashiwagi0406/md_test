@@ -83,9 +83,7 @@ GitHub Flavored Markdown
 1. 1-3
 1. 1-4
 
----
-
-傍線が必要？
+上下一行開け、タブか半角空白でブロックコードになるらしい、知らなかった。
 
     class Hoge
       def hoge
@@ -93,9 +91,9 @@ GitHub Flavored Markdown
       end
     end
 
----
 
-```
+バッククォート×3でやった方が安全？シンタックスハイライト使えるし？
+```ruby
     class Hoge
       def hoge
         print 'hoge'
