@@ -53,3 +53,5 @@ GitHub Flavored Markdown
 </details>
 
 記法法のそれぞれの拡張。上記 5 つの他の場所での使用例。
+
+</br>code記法にならない場合もある->`こことか`
