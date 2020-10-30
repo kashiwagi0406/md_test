@@ -31,7 +31,7 @@ GitHub Flavored Markdown
 - リンク([外へのリンク](https://qiita.com/tbpgr/items/989c6badefff69377da7))
     - [リンク](https://qiita.com/tbpgr/items/989c6badefff69377da7#%E3%83%AA%E3%83%B3%E3%82%AF)
 - html タグをそのまま書ける。
-    - **_知っているhtmlタグを言ってください。_**
+    - ** _知っているhtmlタグを言ってください。_ **
 
 ## html タグをそのまま書ける実演
 
