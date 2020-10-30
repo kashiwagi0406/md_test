@@ -17,9 +17,9 @@ GitHub Flavored Markdown
 ## 教える内容
 
 - 見出し系 
- - [見出し](https://qiita.com/tbpgr/items/989c6badefff69377da7#%E8%A6%8B%E5%87%BA%E3%81%97)
+  - [見出し](https://qiita.com/tbpgr/items/989c6badefff69377da7#%E8%A6%8B%E5%87%BA%E3%81%97)
 - リスト系
- - [箇条書きリスト](https://qiita.com/tbpgr/items/989c6badefff69377da7#%E7%AE%87%E6%9D%A1%E6%9B%B8%E3%81%8D%E3%83%AA%E3%82%B9%E3%83%88)
+  - [箇条書きリスト](https://qiita.com/tbpgr/items/989c6badefff69377da7#%E7%AE%87%E6%9D%A1%E6%9B%B8%E3%81%8D%E3%83%AA%E3%82%B9%E3%83%88)
 - `> 引用`
 - コードプレビュ
 - 強調系
