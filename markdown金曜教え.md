@@ -8,6 +8,7 @@ GitHub Flavored Markdown
 金曜にギットハブの readme に使える程度のマークダウンの書き方を教えるの 30 分の説明ぐらい。
 
 </br>
+
 厳密に教えるのは `GitHub Flavored Markdown` というMarkdownが掛かれている。
 
 - チートシート [Markdown 記法 サンプル集](https://qiita.com/tbpgr/items/989c6badefff69377da7)
