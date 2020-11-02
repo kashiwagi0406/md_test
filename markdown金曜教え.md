@@ -30,6 +30,8 @@ GitHub Flavored Markdown
     - [GFM:取り消し線](https://qiita.com/tbpgr/items/989c6badefff69377da7#gfm%E5%8F%96%E3%82%8A%E6%B6%88%E3%81%97%E7%B7%9A)
 - リンク([外へのリンク](https://qiita.com/tbpgr/items/989c6badefff69377da7))
     - [リンク](https://qiita.com/tbpgr/items/989c6badefff69377da7#%E3%83%AA%E3%83%B3%E3%82%AF)
+- 文章の改行
+    - 空行を入れるか`</br>`で改行。
 - html タグをそのまま書ける。
     - ***知っているhtmlタグを言ってください。*** **おそらく有効です**
 
