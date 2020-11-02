@@ -51,12 +51,16 @@ GitHub Flavored Markdown
 
 <details>
     <summary>折り畳み</summary>
+
 ```html
+
 <details>
     <summary>折り畳み</summary>
     <b>折り</b>た<i>た</i>まれる本文
 </details>
+
  ```
+
    </br>
     <b>折り</b>た<i>た</i>まれる本文
 </details>
