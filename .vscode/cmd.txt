@@ -1,0 +1,1 @@
+cd ~/Desktop/j-sprict-dev/md_test && code --disable-extensions .
